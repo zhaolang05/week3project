@@ -17,6 +17,6 @@ This program is a chat application that allows people to create an account, edit
 
 ## 4. The Screenshot of Using a Tool to Try Out the API
 
-![img](https://lh4.googleusercontent.com/NdIq9EuwpekSLiYbrwQ5-tzcGT77UV43mGMB3o6PJLCSgjJAq9cuNJtKIHWXf4f2_Ci2wzft9GgUya0tI2NTZOCqXhiVA26ag9_tyusHnO5Ub-WnaFnqrY0bPjP_1FPe6YzpkF2uGBmTlHG_7g_Idtw)
+![image](https://github.com/zhaolang05/week3project/assets/113117582/98d38c67-fd33-4b30-8e82-98e31df85f12)
 
 ## 5. The Example Output of Java code
