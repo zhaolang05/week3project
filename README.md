@@ -11,7 +11,7 @@ This program is a chat application that allows people to create an account, edit
 ## 3. The Link to the Documentation for the API
 
 1. https://apilayer.com/marketplace/image_upload-api
-2. https://apilist.fun/api/twitter-api-please-delete-(see-description)
+2. https://apilist.fun/api/twitter
 3. https://dashboard.getstream.io/app/1265721/chat
 4. https://discord.com/api
 
