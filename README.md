@@ -20,3 +20,5 @@ This program is a chat application that allows people to create an account, edit
 ![image](https://github.com/zhaolang05/week3project/assets/113117582/98d38c67-fd33-4b30-8e82-98e31df85f12)
 
 ## 5. The Example Output of Java code
+![image](https://github.com/zhaolang05/week3project/assets/113117582/c1b19958-b362-4dfe-beaf-9c60bb82b373)
+returns unicode (which can be translated to Chinese).
