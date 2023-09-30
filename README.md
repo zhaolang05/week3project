@@ -13,7 +13,7 @@ This program is a chat application that allows people to create an account, edit
 1. https://apilayer.com/marketplace/image_upload-api
 2.  https://developer.twitter.com/en/docs?ref=apilist.fun
 3. https://dashboard.getstream.io/app/1265721/chat
-4. https://discord.com/api
+4. https://github.com/discord/discord-api-spec
 
 ## 4. The Screenshot of Using a Tool to Try Out the API
 
